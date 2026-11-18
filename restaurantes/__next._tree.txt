@@ -3,7 +3,7 @@
 :HL["/pedra-viva/_next/static/chunks/1hoa_f_ad0vbf.css","style"]
 :HL["/pedra-viva/_next/static/chunks/0k70j3q78xjpg.css","style"]
 :HL["/pedra-viva/_next/static/chunks/24dt4f9mhpwny.css","style"]
-:HL["/pedra-viva/_next/static/chunks/0j3voswswwx51.css","style"]
+:HL["/pedra-viva/_next/static/chunks/08zcty7odg7d7.css","style"]
 :HL["/pedra-viva/_next/static/media/01d6212a423b17a1-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/pedra-viva/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/pedra-viva/_next/static/media/0d3323de857e1fce-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -23,4 +23,4 @@
 :HL["/pedra-viva/_next/static/media/fe68a48bcbeff111-s.p.1jake7ccbq8_p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"pagina","t":"c","k":"restaurantes","s":["pacotes","painel"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"Ll6aY9l5geTRJazlHNqug","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"-eoOfve_tiqfa2pTYwn2Y","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
